@@ -31,5 +31,8 @@ This is where the CutSync panel checks **only whether a newer version exists**.
 
 ## 集めているもの / What is collected
 
+プライバシーポリシー：[PRIVACY.md](PRIVACY.md)・利用規約：[TERMS.md](TERMS.md)
+
+
 **ありません。**パネルはこのファイルを取りに来るだけで、こちらへ何も送りません（GitHub 側に通常のアクセスログが残るだけです）。
 **Nothing.** The panel only downloads this file and sends nothing back (GitHub keeps its usual access logs).
