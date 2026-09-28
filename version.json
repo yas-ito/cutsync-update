@@ -1,9 +1,9 @@
 {
-  "latest": "1.1.0",
+  "latest": "1.2.0",
   "url": "https://yas-tools.booth.pm/items/8569410",
   "notes": {
-    "ja": "",
-    "en": ""
+    "ja": "英語に対応しました（初めて開いたときに言語を選べます）。新しい版のお知らせ・版の表示・アイコンを足し、「初期値に戻す」が効かなかった不具合などを直しました。",
+    "en": "Added English support (choose your language on first launch), update notices, a version label and icons, and fixed several bugs."
   },
   "channels": {
     "booth": {
