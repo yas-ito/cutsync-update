@@ -1,9 +1,9 @@
 {
-  "latest": "1.2.0",
+  "latest": "1.3.0",
   "url": "https://yas-tools.booth.pm/items/8569410",
   "notes": {
-    "ja": "英語に対応しました（初めて開いたときに言語を選べます）。新しい版のお知らせ・版の表示・アイコンを足し、「初期値に戻す」が効かなかった不具合などを直しました。",
-    "en": "Added English support (choose your language on first launch), update notices, a version label and icons, and fixed several bugs."
+    "ja": "テロップとテロップの間に数フレームの隙間がある所でも、両側がそろってカット点へ動くようにしました。初めて開いたときに English を選ぶと、記録欄の1行目だけ日本語で出ていたのを直しました。",
+    "en": "Captions separated by a gap of a few frames now snap to the cut on both sides. Fixed the first log line appearing in Japanese after choosing English on first launch."
   },
   "channels": {
     "booth": {
